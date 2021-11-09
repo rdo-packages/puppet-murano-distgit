@@ -65,3 +65,4 @@ cp -rp * %{buildroot}/%{_datadir}/openstack-puppet/modules/murano/
 
 
 %changelog
+# REMOVEME: error caused by commit https://opendev.org/openstack/puppet-murano/commit/5e85bc045a2e94c6808de1492c2cca661941806e
